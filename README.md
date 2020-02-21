@@ -1,2 +1,2 @@
-# amitoj02.github.io
+# amitojsingh.cf
 My own site
